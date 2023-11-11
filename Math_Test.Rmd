@@ -1,0 +1,20 @@
+---
+title: "Math test"
+author: "Nicholus Tint Zaw"
+date: "2022-10-27"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## exercises 
+
+In a Science test, each correct answer was awarded 5 marks and 2 marks were deducted for each incorrect answer. If there were 20 questions in the test and Danny obtained 79 marks, how many questions did he answer correctly? 
+
+
