@@ -17,4 +17,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In a Science test, each correct answer was awarded 5 marks and 2 marks were deducted for each incorrect answer. If there were 20 questions in the test and Danny obtained 79 marks, how many questions did he answer correctly? 
 
-Answer : 17 << need to correct 
